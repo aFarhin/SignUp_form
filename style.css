@@ -1,0 +1,58 @@
+* {
+
+    background-color: black;
+
+
+}
+
+.MAIN {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.main {
+    text-align: center;
+
+    color: rgb(151, 156, 160);
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 50;
+    text-align: start;
+    width: 500px;
+    height: 400px;
+}
+
+.head {
+    font-size: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: rgb(176, 171, 171);
+}
+
+.more {
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(117, 116, 116);
+}
+
+button {
+    background-color: rgb(178, 167, 167);
+    height: 30px;
+    width: 80px;
+}
+
+input[name="Type"] {
+    accent-color: rgb(25, 26, 24);
+    stroke: solid white;
+
+}
+
+.rad {
+    padding: 10px;
+
+}
+
+.che {
+    padding-bottom: 10px;
+}
